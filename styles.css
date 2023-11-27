@@ -26,7 +26,7 @@ ul {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 /* section one flex grow and shrink */
 
