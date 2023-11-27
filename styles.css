@@ -107,14 +107,11 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
-
-}
-
-.figcaption {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 
 /* section 5 media items */
 
