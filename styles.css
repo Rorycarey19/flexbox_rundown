@@ -112,6 +112,11 @@ iframe {
     justify-content: center;
 }
 
+.figcaption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
 /* section 5 media items */
 
 .section-five {
