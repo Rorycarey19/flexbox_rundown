@@ -28,6 +28,9 @@ ul {
     flex-direction: row;
     justify-content: flex-start;
 }
+.push {
+    margin-left: auto;
+}
 /* section one flex grow and shrink */
 
 .section-one {
